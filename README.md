@@ -1,6 +1,6 @@
 # Kodluyoruz ilk repo
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) frontend egitiminde olusturudugumuz ilk repo. Icerisinde bir adet README dosyasi, bir adet de index.html barindiriyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) frontend egitiminde olusturudugumuz ilk repo. Icerisinde bir adet README dosyasi, bir adet de ordek barindiriyor.
 
 ![github](/duck.jpg)
 
